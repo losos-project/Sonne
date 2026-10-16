@@ -1,13 +1,28 @@
-## Summary
+## Description
 
 What problem does this solve, how, and why does this change matter?
 Use "Closes #123" for each issue resolved.
-Include artifacts produced when testing: before/after screenshots, GIFs, videos, benchmarks.
+
+## Screenshots
+
+<!--
+Drop the images into the table. Use a GIF or video when the change moves,
+and add benchmarks below it when performance changes.
+When nothing on screen changes, replace the table with "No visible change."
+-->
+
+| Before | After |
+| ------ | ----- |
+|        |       |
 
 ## Testing
 
 Manually test your changes; report results, mention platforms if relevant.
 How can reviewers test this easily? Include setup and steps.
+
+## Reviewer notes
+
+<!-- Where to start reading, what to look at closely, and anything left out on purpose. -->
 
 ## Self-review
 
